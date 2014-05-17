@@ -1,12 +1,3 @@
-/*
- * Author: Carlos Alvarez
- * URL: http://alvarez.is
- *
- * Project Name: Munter - Free Bootstrap 3 Theme
- * Version: 1.0
- * URL: http://blacktie.co
- */
- 
 .font-thin {
 	font-family: "Titillium Web", sans-serif;
 	font-weight: 200;
@@ -51,15 +42,15 @@ body {
 }
 
 .navbar {
-	background-color: #e4e6e5;
-	background-color: rgba( 228, 230, 229, .85 );
+	background-color: #ffffff;
+/*	background-color: rgba( 228, 230, 229, .85 ); */
 	border-bottom: 0 none;
 	font-size: 12px;
 	transition: .25s all linear;
 }
 
 .navbar.inv {
-	background-color: rgba( 0, 0, 0, .5 );
+	background-color: #ffffff;
 	border-bottom: 1px solid #bfbfbf;
 }
 
@@ -71,7 +62,7 @@ body {
 }
 
 .navbar.inv a {
-	color: #e4e6e5;
+	color: #333;
 }
 
 
@@ -116,25 +107,28 @@ body {
 	z-index: 10;
 }
 
-#special-active-menu-1,
-#special-active-menu-6 {
+#special-active-menu-1 {
 	background-color: #4e4e4e !important;
 }
 
 #special-active-menu-2 {
-	background-color: #1abc9c !important;
+	background-color: #2ecc71 !important;
 }
 
 #special-active-menu-3 {
-	background-color: #e74c3c !important;
+	background-color: #9b59b6 !important;
 }
 
 #special-active-menu-4 {
-	background-color: #34495e !important;
+	background-color: #f39c12 !important;
 }
 
 #special-active-menu-5 {
-	background-color: #e67e22 !important;
+	background-color: #3498db !important;
+}
+
+#special-active-menu-6 {
+	background-color: #e74c3c !important;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -179,23 +173,23 @@ body {
 			
 	.nav li[data-slide="1"],
 	.nav li[data-slide="6"] {
-		background-color: #2f2f2f;
-	}
-	
-	.nav li[data-slide="2"] {
-		background-color: #1abc9c;
-	}
-	
-	.nav li[data-slide="3"] {
 		background-color: #e74c3c;
 	}
 	
+	.nav li[data-slide="2"] {
+		background-color: #2ecc71;
+	}
+	
+	.nav li[data-slide="3"] {
+		background-color: #9b59b6;
+	}
+	
 	.nav li[data-slide="4"] {
-		background-color: #34495e;
+		background-color: #f39c12;
 	}
 	
 	.nav li[data-slide="5"] {
-		background-color: #e67e22;
+		background-color: #3498db;
 	}
 	
 	.navbar-brand {
