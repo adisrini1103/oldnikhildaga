@@ -302,8 +302,8 @@ body {
 }
 
 #slide-2 {
-	background-color: #1abc9c;
-	color: #e4e6e5;
+	background-color: #2ecc71;
+	color: #fff;
 	padding-top: 90px;
 }
 
@@ -438,8 +438,8 @@ body {
 }
 
 #slide-4 {
-	background-color: #34495e;
-	color: #e4e6e5;
+	background-color: #f39c12;
+	color: #fff;
 	padding-top: 90px;
 }
 
@@ -450,14 +450,14 @@ body {
 
 
 #slide-5 {
-	background-color: #f39c12;
-	color: #e4e6e5;
+	background-color: #3498db;
+	color: #ffffff;
 	padding-top: 90px;
 }
 
 #slide-6 {
-	background-color: #2f2f2f;
-	color: #e4e6e5;
+	background-color: #e74c3c;
+	color: #ffffff;
 	padding-bottom: 350px;
 	padding-top: 90px;
 }
