@@ -167,7 +167,7 @@ body {
 		padding-left: 0;
 	}
 	
-	.fa {
+	.icon {
 		margin-right: 12px;
 	}
 			
