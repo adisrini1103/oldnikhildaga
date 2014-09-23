@@ -27,13 +27,13 @@ Skills
 
 **Web Development And Design**   
 
-> **Languages**:	 HTML5, CSS3, JavaScript, PHP  
-> **CMS**:  	Drupal, Wordpress, Jekyll
-> **Front-End Development Frameworks**: 	Bootstrap, jQuery, meteorjs 
-> **Database**:	  MySQL, MongoDB
-> **Server Management**:	Apache, Nginx, Ubuntu Server, Amazon Web Services, Digital Ocean
-> **Version control system**:	Git
-> **Softwares**: 	Adobe(Photoshop, Illustrator, Premiere Pro, After Effects), Microsoft Excel 
+> **Languages**:	 HTML5, CSS3, JavaScript, PHP    
+> **CMS**:  	Drupal, Wordpress, Jekyll  
+> **Front-End Development Frameworks**: 	Bootstrap, jQuery, meteorjs   
+> **Database**:	  MySQL, MongoDB  
+> **Server Management**:	Apache, Nginx, Ubuntu Server, Amazon Web Services    
+> **Version control system**:	Git  
+> **Softwares**: 	Adobe(Photoshop, Illustrator, Premiere Pro, After Effects), Microsoft Excel  
 
 
 **Financial Analysis**  
