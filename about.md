@@ -20,10 +20,12 @@ Contact: nikhil.daga.bitsian@gmail.com
 Education
 ---------
 **Birla Institute of Technology and Science**
+
 Master of Science (M.S.),  Biological Sciences
 2008 – 2013
 
 **Birla Institute of Technology and Science**
+
 Bachelor of Engineering (B.E.), Mechanical Engineering
 2008 – 2012
 
@@ -35,9 +37,11 @@ Skills
 
 
 **Web Development And Design** 
+
 HTML5, CSS3, JavaScript, jQuery, Meteor
 
 **Financial Analysis**
+
 Equity and Derivatives Research, Fundamental Analysis, Technical Analysis 
 
 
@@ -46,7 +50,9 @@ Experience
 
 **Shriram Oil Industries**
 *Chief Operating Officer*
+
 September 2013 – Present
+
 Shriram Oil Industries manufactures excellent quality cotton-seed oil and cotton-seed cake ( Dhep / Kapasia Khalli / Sarki Pend) . At present, our sales include Gujarat, Rajasthan, Maharashtra and Madhya Pradesh.
 
 **Phodphad!**
