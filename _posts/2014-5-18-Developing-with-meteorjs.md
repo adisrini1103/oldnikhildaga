@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Developing with meteorjs
-category: WebDevelopment
+category: web
 ---
 
 To start developing with meteor, head straight to [Meteor Docs Site](http://docs.meteor.com/) 
