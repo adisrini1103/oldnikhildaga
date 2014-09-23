@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-
+  
+  
 Education
 ---------
 **Birla Institute of Technology and Science**  
@@ -17,7 +18,8 @@ Bachelor of Engineering (B.E.), Mechanical Engineering
 2008 – 2012
 
 
-
+  
+  
 Skills
 ------
 **Business Management and Entrepreneurship**
@@ -31,7 +33,8 @@ HTML5, CSS3, JavaScript, jQuery, Meteor
 Equity and Derivatives Research, Fundamental Analysis, Technical Analysis 
 
 
-
+  
+  
 Experience
 ----------
 
@@ -57,7 +60,8 @@ June 2012 – July 2012 (2 months)
 August 2009 – May 2010 (10 months)
 
 
-
+  
+  
 Honors & Awards
 ---------------
 
@@ -80,7 +84,8 @@ The only student startup amongst top 75 startups in India.
 *NEN - National Entrepreneurship Network*  
 Phodphad! selected as the Best Student Startup in India.
 
-
+  
+  
 Extras
 -----
 
