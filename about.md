@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
 Summary
 -----
 
@@ -17,6 +16,7 @@ Reading List : http://goo.gl/bNwvSY
 Contact: nikhil.daga.bitsian@gmail.com
 
 
+
 Education
 ---------
 **Birla Institute of Technology and Science**
@@ -26,6 +26,7 @@ Master of Science (M.S.),  Biological Sciences
 **Birla Institute of Technology and Science**
 Bachelor of Engineering (B.E.), Mechanical Engineering
 2008 – 2012
+
 
 
 Skills
@@ -60,6 +61,7 @@ June 2012 – July 2012 (2 months)
 **Uni BITS**
 *Founder and CEO*
 August 2009 – May 2010 (10 months)
+
 
 
 Honors & Awards
