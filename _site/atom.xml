@@ -1,17 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Nikhil Daga</title>
-    <description>Nikhil Daga -  Entrepreneur, Web Developer, Astrologer and Equity Analyst</description>
-    <link>http://nikhilda.ga/</link>
-    <atom:link href="http://nikhilda.ga/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 23 Sep 2014 17:37:18 +0530</pubDate>
-    <lastBuildDate>Tue, 23 Sep 2014 17:37:18 +0530</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>Characteristics of Planets in Astrology</title>
-        <description>&lt;p&gt;*&lt;em&gt;The following table represents Navgrahas (The Nine Planets) in Astrology, their consort, color, gender, element, gemstones, directions and other things associated with them.  *&lt;/em&gt; &lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Nikhil Daga</title>
+ <link href="http://nikhilda.ga/atom.xml" rel="self"/>
+ <link href="http://nikhilda.ga/"/>
+ <updated>2014-09-23T17:37:18+05:30</updated>
+ <id>http://nikhilda.ga</id>
+ <author>
+   <name>Nikhil Daga</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Characteristics of Planets in Astrology</title>
+   <link href="http://nikhilda.ga/astrology/2014/09/09/characteristics-of-planets-in-astrology.html"/>
+   <updated>2014-09-09T00:00:00+05:30</updated>
+   <id>http://nikhilda.ga/astrology/2014/09/09/characteristics-of-planets-in-astrology</id>
+   <content type="html">&lt;p&gt;*&lt;em&gt;The following table represents Navgrahas (The Nine Planets) in Astrology, their consort, color, gender, element, gemstones, directions and other things associated with them.  *&lt;/em&gt; &lt;/p&gt;
 
 &lt;table&gt;&lt;thead&gt;
 &lt;tr&gt;
@@ -262,19 +268,15 @@
 &lt;/tbody&gt;&lt;/table&gt;
 
 &lt;p&gt;&lt;strong&gt;If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on &lt;a href=&quot;mailto:nikhil.daga.bitsian@gmail.com&quot;&gt;nikhil.daga.bitsian@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 09 Sep 2014 00:00:00 +0530</pubDate>
-        <link>http://nikhilda.ga/astrology/2014/09/09/characteristics-of-planets-in-astrology.html</link>
-        <guid isPermaLink="true">http://nikhilda.ga/astrology/2014/09/09/characteristics-of-planets-in-astrology.html</guid>
-        
-        
-        <category>astrology</category>
-        
-      </item>
-    
-      <item>
-        <title>Characteristics of Houses in Astrology</title>
-        <description>&lt;p&gt;&lt;strong&gt;The following table represents the 12 Bhavas (houses) of astrology, their sanskrit name, meaning, their Karaka(significator), the domains and the body part which they represent and their types.&lt;/strong&gt; &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Characteristics of Houses in Astrology</title>
+   <link href="http://nikhilda.ga/astrology/2014/09/09/characteristics-of-houses-in-astrology.html"/>
+   <updated>2014-09-09T00:00:00+05:30</updated>
+   <id>http://nikhilda.ga/astrology/2014/09/09/characteristics-of-houses-in-astrology</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;The following table represents the 12 Bhavas (houses) of astrology, their sanskrit name, meaning, their Karaka(significator), the domains and the body part which they represent and their types.&lt;/strong&gt; &lt;/p&gt;
 
 &lt;table&gt;&lt;thead&gt;
 &lt;tr&gt;
@@ -398,19 +400,15 @@
 &lt;/tbody&gt;&lt;/table&gt;
 
 &lt;p&gt;&lt;strong&gt;If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on &lt;a href=&quot;mailto:nikhil.daga.bitsian@gmail.com&quot;&gt;nikhil.daga.bitsian@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 09 Sep 2014 00:00:00 +0530</pubDate>
-        <link>http://nikhilda.ga/astrology/2014/09/09/characteristics-of-houses-in-astrology.html</link>
-        <guid isPermaLink="true">http://nikhilda.ga/astrology/2014/09/09/characteristics-of-houses-in-astrology.html</guid>
-        
-        
-        <category>astrology</category>
-        
-      </item>
-    
-      <item>
-        <title>The effects of Strong and Weak Planets in Astrology - An Overview</title>
-        <description>&lt;p&gt;We met the nine Superpowers that influence the beings on Earth in the previous post.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The effects of Strong and Weak Planets in Astrology - An Overview</title>
+   <link href="http://nikhilda.ga/astrology/2014/09/06/effects-of-strong-and-weak-planets.html"/>
+   <updated>2014-09-06T00:00:00+05:30</updated>
+   <id>http://nikhilda.ga/astrology/2014/09/06/effects-of-strong-and-weak-planets</id>
+   <content type="html">&lt;p&gt;We met the nine Superpowers that influence the beings on Earth in the previous post.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://nikhilda.ga/images/nikhil_daga_astrology6.jpg&quot; alt=&quot;Strong and Weak Planets in Astrology &quot;&gt;&lt;/p&gt;
 
@@ -433,38 +431,30 @@
 &lt;p&gt;Strong &lt;strong&gt;Saturn&lt;/strong&gt; provides one with a long, secured and healthy life while weak Saturn makes one of suspicious and insecure nature.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on &lt;a href=&quot;mailto:nikhil.daga.bitsian@gmail.com&quot;&gt;nikhil.daga.bitsian@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 06 Sep 2014 00:00:00 +0530</pubDate>
-        <link>http://nikhilda.ga/astrology/2014/09/06/effects-of-strong-and-weak-planets.html</link>
-        <guid isPermaLink="true">http://nikhilda.ga/astrology/2014/09/06/effects-of-strong-and-weak-planets.html</guid>
-        
-        
-        <category>astrology</category>
-        
-      </item>
-    
-      <item>
-        <title>Developing with meteorjs</title>
-        <description>&lt;p&gt;To start developing with meteor, head straight to &lt;a href=&quot;http://docs.meteor.com/&quot;&gt;Meteor Docs Site&lt;/a&gt; &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Developing with meteorjs</title>
+   <link href="http://nikhilda.ga/web/2014/05/18/Developing-with-meteorjs.html"/>
+   <updated>2014-05-18T00:00:00+05:30</updated>
+   <id>http://nikhilda.ga/web/2014/05/18/Developing-with-meteorjs</id>
+   <content type="html">&lt;p&gt;To start developing with meteor, head straight to &lt;a href=&quot;http://docs.meteor.com/&quot;&gt;Meteor Docs Site&lt;/a&gt; &lt;/p&gt;
 
 &lt;p&gt;Read it as much as you can. Once, you understand all the underlying concepts of meteor, try out &lt;a href=&quot;https://www.meteor.com/examples&quot;&gt;meteor examples&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;And finally start developing your own app. Guess what? There is boilerplate for that too! I found &lt;a href=&quot;https://github.com/matteodem/meteor-boilerplate&quot;&gt;this&lt;/a&gt; one particularly good. &lt;/p&gt;
 
 &lt;p&gt;tbc...&lt;/p&gt;
-</description>
-        <pubDate>Sun, 18 May 2014 00:00:00 +0530</pubDate>
-        <link>http://nikhilda.ga/web/2014/05/18/Developing-with-meteorjs.html</link>
-        <guid isPermaLink="true">http://nikhilda.ga/web/2014/05/18/Developing-with-meteorjs.html</guid>
-        
-        
-        <category>web</category>
-        
-      </item>
-    
-      <item>
-        <title>Differences between the Vedic and Western Astrology</title>
-        <description>&lt;h2 id=&quot;difference-in-the-method-of-measurement&quot;&gt;Difference in the method of measurement&lt;/h2&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Differences between the Vedic and Western Astrology</title>
+   <link href="http://nikhilda.ga/astrology/2014/05/07/differences-between-vedic-western-astrology.html"/>
+   <updated>2014-05-07T00:00:00+05:30</updated>
+   <id>http://nikhilda.ga/astrology/2014/05/07/differences-between-vedic-western-astrology</id>
+   <content type="html">&lt;h2 id=&quot;difference-in-the-method-of-measurement&quot;&gt;Difference in the method of measurement&lt;/h2&gt;
 
 &lt;p&gt;Vedic (Jyotiṣa) and Western zodiacs differ in the method of measurement.&lt;/p&gt;
 
@@ -494,38 +484,30 @@ Jyotiṣa uses primarily the sidereal zodiac (in which stars are considered to b
 &lt;p&gt;Being based on Vedic philosophy, Vedic astrology includes several other elements such as Karmic factors, Dashas, Muhurta, Prashna, etc. which are not present in Western Astrology.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on &lt;a href=&quot;mailto:nikhil.daga.bitsian@gmail.com&quot;&gt;nikhil.daga.bitsian@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 07 May 2014 00:00:00 +0530</pubDate>
-        <link>http://nikhilda.ga/astrology/2014/05/07/differences-between-vedic-western-astrology.html</link>
-        <guid isPermaLink="true">http://nikhilda.ga/astrology/2014/05/07/differences-between-vedic-western-astrology.html</guid>
-        
-        
-        <category>astrology</category>
-        
-      </item>
-    
-      <item>
-        <title>Rashis - The Zodiac Signs</title>
-        <description>&lt;p&gt;Astrological signs are the twelve 30º sectors of the ecliptic.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Rashis - The Zodiac Signs</title>
+   <link href="http://nikhilda.ga/astrology/2014/05/06/rashi-the-zodiac-signs.html"/>
+   <updated>2014-05-06T00:00:00+05:30</updated>
+   <id>http://nikhilda.ga/astrology/2014/05/06/rashi-the-zodiac-signs</id>
+   <content type="html">&lt;p&gt;Astrological signs are the twelve 30º sectors of the ecliptic.&lt;/p&gt;
 
 &lt;p&gt;There is a group of constellations known as the zodiacal constellations that make a ring around the Earth. To astronomers, this band is called the Ecliptic, and is the path the Sun and Moon both appear to take around the Earth. To Astrologers, this imaginary band is what governs many of our personal traits. When an astrologer says that your Sun is in Cancer, this means that at the time you were born, the Sun appeared to be in the constellation Cancer.&lt;/p&gt;
 
 &lt;p&gt;to be continued...&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on &lt;a href=&quot;mailto:nikhil.daga.bitsian@gmail.com&quot;&gt;nikhil.daga.bitsian@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 06 May 2014 00:00:00 +0530</pubDate>
-        <link>http://nikhilda.ga/astrology/2014/05/06/rashi-the-zodiac-signs.html</link>
-        <guid isPermaLink="true">http://nikhilda.ga/astrology/2014/05/06/rashi-the-zodiac-signs.html</guid>
-        
-        
-        <category>astrology</category>
-        
-      </item>
-    
-      <item>
-        <title>Bhavas - The 12 Houses Of Astrology</title>
-        <description>&lt;p&gt;&lt;em&gt;Bhavas&lt;/em&gt; or The Houses of Life&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bhavas - The 12 Houses Of Astrology</title>
+   <link href="http://nikhilda.ga/astrology/2014/05/05/Bhavas-the-houses-of-life.html"/>
+   <updated>2014-05-05T00:00:00+05:30</updated>
+   <id>http://nikhilda.ga/astrology/2014/05/05/Bhavas-the-houses-of-life</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Bhavas&lt;/em&gt; or The Houses of Life&lt;/p&gt;
 
 &lt;p&gt;There are a total of 12 Bhavas or Houses positioned in a chart in Vedic Astrology.&lt;/p&gt;
 
@@ -556,19 +538,15 @@ Jyotiṣa uses primarily the sidereal zodiac (in which stars are considered to b
 &lt;p&gt;&lt;img src=&quot;http://nikhilda.ga/images/nikhil_daga_astrology4.jpg&quot; alt=&quot;Navgrahas- The Nine Planets &quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on &lt;a href=&quot;mailto:nikhil.daga.bitsian@gmail.com&quot;&gt;nikhil.daga.bitsian@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 May 2014 00:00:00 +0530</pubDate>
-        <link>http://nikhilda.ga/astrology/2014/05/05/Bhavas-the-houses-of-life.html</link>
-        <guid isPermaLink="true">http://nikhilda.ga/astrology/2014/05/05/Bhavas-the-houses-of-life.html</guid>
-        
-        
-        <category>astrology</category>
-        
-      </item>
-    
-      <item>
-        <title>Navagrahas - The Nine Planets</title>
-        <description>&lt;p&gt;Let us meet the nine Superpowers that influence the beings on Earth.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Navagrahas - The Nine Planets</title>
+   <link href="http://nikhilda.ga/astrology/2014/05/04/navagrahas-the-nine-planets.html"/>
+   <updated>2014-05-04T00:00:00+05:30</updated>
+   <id>http://nikhilda.ga/astrology/2014/05/04/navagrahas-the-nine-planets</id>
+   <content type="html">&lt;p&gt;Let us meet the nine Superpowers that influence the beings on Earth.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://nikhilda.ga/images/nikhil_daga_astrology3.jpg&quot; alt=&quot;Navgrahas- The Nine Planets &quot;&gt;&lt;/p&gt;
 
@@ -601,19 +579,15 @@ The word planet for “Graha” is actually a misnomer. Anyways, for easy unders
 &lt;p&gt;All said and done, ultimately, the fate of company also depends on the product that its developing . Similarly, the fate of a person also depends on the karma he / she performs.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on &lt;a href=&quot;mailto:nikhil.daga.bitsian@gmail.com&quot;&gt;nikhil.daga.bitsian@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 04 May 2014 00:00:00 +0530</pubDate>
-        <link>http://nikhilda.ga/astrology/2014/05/04/navagrahas-the-nine-planets.html</link>
-        <guid isPermaLink="true">http://nikhilda.ga/astrology/2014/05/04/navagrahas-the-nine-planets.html</guid>
-        
-        
-        <category>astrology</category>
-        
-      </item>
-    
-      <item>
-        <title>Planets, Houses and Signs in Astrology</title>
-        <description>&lt;p&gt;How do planets, houses and signs in Vedic Astrology work together to influence human life?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Planets, Houses and Signs in Astrology</title>
+   <link href="http://nikhilda.ga/astrology/2014/05/03/planets-houses-signs.html"/>
+   <updated>2014-05-03T00:00:00+05:30</updated>
+   <id>http://nikhilda.ga/astrology/2014/05/03/planets-houses-signs</id>
+   <content type="html">&lt;p&gt;How do planets, houses and signs in Vedic Astrology work together to influence human life?&lt;/p&gt;
 
 &lt;p&gt;To help you understand how these elements of astrology work together to influence human life,  lets take a look at this analogy.&lt;/p&gt;
 
@@ -636,19 +610,15 @@ Charts are how we know which planet is in which house under which sign.&lt;/p&gt
 &lt;p&gt;&lt;img src=&quot;http://nikhilda.ga/images/nikhil_daga_astrology2.png&quot; alt=&quot;Planets, Houses and Signs &quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on &lt;a href=&quot;mailto:nikhil.daga.bitsian@gmail.com&quot;&gt;nikhil.daga.bitsian@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 03 May 2014 00:00:00 +0530</pubDate>
-        <link>http://nikhilda.ga/astrology/2014/05/03/planets-houses-signs.html</link>
-        <guid isPermaLink="true">http://nikhilda.ga/astrology/2014/05/03/planets-houses-signs.html</guid>
-        
-        
-        <category>astrology</category>
-        
-      </item>
-    
-      <item>
-        <title>The four pillars of astrology</title>
-        <description>&lt;p&gt;The four pillars of astrology&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The four pillars of astrology</title>
+   <link href="http://nikhilda.ga/astrology/2014/05/02/the-four-pillars-of-astrology.html"/>
+   <updated>2014-05-02T00:00:00+05:30</updated>
+   <id>http://nikhilda.ga/astrology/2014/05/02/the-four-pillars-of-astrology</id>
+   <content type="html">&lt;p&gt;The four pillars of astrology&lt;/p&gt;
 
 &lt;p&gt;To learn Vedic Astrology, one must know the most important elements or the four pillars of astrology : &lt;/p&gt;
 
@@ -666,15 +636,57 @@ Charts are how we know which planet is in which house under which sign.&lt;/p&gt
 &lt;p&gt;&lt;img src=&quot;http://nikhilda.ga/images/nikhil_daga_astrology1.jpg&quot; alt=&quot;Four Pillars Of Astrology&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on &lt;a href=&quot;mailto:nikhil.daga.bitsian@gmail.com&quot;&gt;nikhil.daga.bitsian@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 02 May 2014 00:00:00 +0530</pubDate>
-        <link>http://nikhilda.ga/astrology/2014/05/02/the-four-pillars-of-astrology.html</link>
-        <guid isPermaLink="true">http://nikhilda.ga/astrology/2014/05/02/the-four-pillars-of-astrology.html</guid>
-        
-        
-        <category>astrology</category>
-        
-      </item>
-    
-  </channel>
-</rss>
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Karma - The Science Behind Astrology</title>
+   <link href="http://nikhilda.ga/astrology/2014/05/01/Karma-The-Science-Behind-Astrology.html"/>
+   <updated>2014-05-01T00:00:00+05:30</updated>
+   <id>http://nikhilda.ga/astrology/2014/05/01/Karma-The-Science-Behind-Astrology</id>
+   <content type="html">&lt;p&gt;A child is born on that day and at that hour when the celestial rays are in mathematical harmony with his individual karma. His horoscope is a challenging portrait, revealing his unalterable past and its probable future results.&lt;/p&gt;
+
+&lt;p&gt;Our Vedic birth charts are maps of karma, showing a schedule of events that will unfold throughout our lives. &lt;/p&gt;
+
+&lt;p&gt;The sages created Vedic astrology to help human beings understand the cycles of their lives based on karma they&amp;#39;d created in previous incarnations. The horoscope was designed as a kind of report card for the soul that summarized their level of accomplishment up to the moment they were born. It revealed the karmic status of different areas in their life such as family, romance, career, finances, and spiritual growth. It also showed when particular karmas from the past were most likely to manifest in the course of their life.&lt;/p&gt;
+
+&lt;p&gt;And because Vedic astrology helped people see into blind spots in the past and future, it has been called Jyotir Vidya in Sanskrit, meaning &amp;quot;the science of light&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nikhilda.ga/images/nikhil_daga_astrology.jpg&quot; alt=&quot;Karma - The Science Behind Astrology&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;In the previous para, we learned that Vedic birth chart sketches a quick picture of our sanchita karma, the karma we&amp;#39;ve accumulated during our numerous past births. Subcharts called amshas reveal our prarabdha karma, the fraction of our total karma that will play out in our present lifetime.&lt;/p&gt;
+
+&lt;p&gt;But few astrologers are more than seventy percent accurate. The very best might be eighty percent correct on a good day. What&amp;#39;s the reason behind it?&lt;/p&gt;
+
+&lt;p&gt;The reason is kriyamana karma, the karma we&amp;#39;re creating now. The horoscope only reveals our karmic status up to the moment of our birth. The chart also reveals the samskaras or tendencies we carry in our karmashaya, the repository of karma in our causal body. But from the moment of birth our attitudes and behaviors in this life modify the future course of our karma, for better or worse. By living with full awareness, making wise choices, and acting effectively and compassionately, we can to a large extent override the vectors of destiny that were set in motion when we took our first breath.&lt;/p&gt;
+
+&lt;h2 id=&quot;vedic-astrology-does-not-tell-us-what-will-happen-in-our-future.-it-tells-us-what-might-happen-unless-we-consciously-act-to-prevent-or-modify-it.&quot;&gt;Vedic astrology does not tell us what will happen in our future. It tells us what might happen unless we consciously act to prevent or modify it.&lt;/h2&gt;
+
+&lt;h2 id=&quot;your-destiny-isn&amp;#39;t-written-in-stone;-it-is-a-living-thing-that-changes-subtly-as-your-level-of-consciousness-changes.*&quot;&gt;Your destiny isn&amp;#39;t written in stone; it is a living thing that changes subtly as your level of consciousness changes.*&lt;/h2&gt;
+
+&lt;p&gt;Now, lets understand Karma.&lt;/p&gt;
+
+&lt;p&gt;According to the yoga tradition, karma comes in three strengths.&lt;/p&gt;
+
+&lt;p&gt;First, there&amp;#39;s the karma that&amp;#39;s easy to change. For example, if you sign up for a course in vegetarian cooking but then decide you&amp;#39;d rather take a meditation class, you can switch courses quite easily.&lt;/p&gt;
+
+&lt;p&gt;Second, there&amp;#39;s karma that can be altered only with substantial effort. If you graduate with a degree in law, but then decide you&amp;#39;d rather be a doctor instead, you can go back to college and get a medical degree, but it will cost you a lot of time and money.&lt;/p&gt;
+
+&lt;p&gt;The vast majority of karma playing out in our lives falls into these two categories.&lt;/p&gt;
+
+&lt;p&gt;The third type is fixed karma. These are the lessons we can&amp;#39;t get out of the experiences we must undergo for the sake of our spiritual growth. Some individuals are born to fame (the children of royalty, for example) or to wealth. They have to deal with the issues this karma brings with it, whether they like it or not. Others may inevitably have to go through a traumatic event like the loss of a loved one or a serious accident or illness. Only a small portion of our total karma is unalterable, however.&lt;/p&gt;
+
+&lt;p&gt;Again remember,
+Vedic astrology does not tell us what will happen in our future. It tells us what might happen unless we consciously act to prevent or modify it.&lt;/p&gt;
+
+&lt;p&gt;There is also a completely different kind of karma that can impact our lives drastically: collective karma.
+If someone who is running a cycle that is signaling physical danger happens to live in a peace-loving culture, for example, she may fall and break her leg  on the fateful day. Someone else, however, running the same cycle but living in a culture with a high tolerance for violence, may be the victim of a mugging or assault. It is absolutely wrong to claim that the victim of a crime karmically &amp;quot;deserved it.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;Just as individuals generate karma, so do neighborhoods, organizations, and nations. Group karma can override or strongly modify individual karma, particularly during collective experiences like war. This shows that we are responsible not only for our own actions but for the attitudes and acts of the communities of which we are members.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on &lt;a href=&quot;mailto:nikhil.daga.bitsian@gmail.com&quot;&gt;nikhil.daga.bitsian@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
