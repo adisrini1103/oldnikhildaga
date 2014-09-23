@@ -23,6 +23,7 @@ Education
 Master of Science (M.S.),  Biological Sciences
 2008 – 2013
 
+
 **Birla Institute of Technology and Science**
 Bachelor of Engineering (B.E.), Mechanical Engineering
 2008 – 2012
