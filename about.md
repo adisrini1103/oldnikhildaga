@@ -18,7 +18,7 @@ Bachelor of Engineering (B.E.), Mechanical Engineering
 2008 – 2012
 
 
-  
+<br><br>  
   
 Skills
 ------
