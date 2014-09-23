@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-  
+<br><br>  
   
 Education
 ---------
@@ -33,7 +33,7 @@ HTML5, CSS3, JavaScript, jQuery, Meteor
 Equity and Derivatives Research, Fundamental Analysis, Technical Analysis 
 
 
-  
+<br><br>  
   
 Experience
 ----------
@@ -59,7 +59,7 @@ June 2012 – July 2012 (2 months)
 *Founder and CEO*  
 August 2009 – May 2010 (10 months)
 
-
+<br><br>
   
   
 Honors & Awards
@@ -84,7 +84,7 @@ The only student startup amongst top 75 startups in India.
 *NEN - National Entrepreneurship Network*  
 Phodphad! selected as the Best Student Startup in India.
 
-  
+  <br><br>
   
 Extras
 -----
