@@ -20,12 +20,10 @@ Contact: nikhil.daga.bitsian@gmail.com
 Education
 ---------
 **Birla Institute of Technology and Science**
-
 Master of Science (M.S.),  Biological Sciences
 2008 – 2013
 
 **Birla Institute of Technology and Science**
-
 Bachelor of Engineering (B.E.), Mechanical Engineering
 2008 – 2012
 
