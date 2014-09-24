@@ -8,8 +8,10 @@ baseurl:          ""
 author:
   name:           'Nikhil Daga'
   url:            https://google.com/+nikhildaga
-
 paginate:         5
+sitemap:
+  priority: 0.7
+  changefreq: daily
 
 # Custom vars
 version:          1.0.0
