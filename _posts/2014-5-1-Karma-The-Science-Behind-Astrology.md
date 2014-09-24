@@ -12,7 +12,7 @@ The sages created Vedic astrology to help human beings understand the cycles of 
 
 And because Vedic astrology helped people see into blind spots in the past and future, it has been called Jyotir Vidya in Sanskrit, meaning "the science of light".
 
-![Karma - The Science Behind Astrology]({{site.url}}/images/nikhil_daga_astrology.jpg)
+![Karma - The Science Behind Astrology]({{site.url}}/public/images/nikhil_daga_astrology.jpg)
 
 In the previous para, we learned that Vedic birth chart sketches a quick picture of our sanchita karma, the karma we've accumulated during our numerous past births. Subcharts called amshas reveal our prarabdha karma, the fraction of our total karma that will play out in our present lifetime.
 
