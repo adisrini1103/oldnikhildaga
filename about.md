@@ -63,7 +63,7 @@ Shriram Oil Industries manufactures excellent quality cotton-seed oil and cotton
 **Phodphad!**  
 *Founder and CEO*  
 May 2010 – Present   
-[Phodphad!](http://phodphad.com/)! is the best place to learn online.
+[Phodphad!](http://phodphad.com/) is the best place to learn online.
 
 
 **CIIE, Indian Institute of Management, Ahmedabad**  
