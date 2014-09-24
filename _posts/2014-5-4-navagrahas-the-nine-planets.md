@@ -6,7 +6,7 @@ category: astrology
 
 Let us meet the nine Superpowers that influence the beings on Earth.
 
-![Navgrahas- The Nine Planets ]({{ site.url }}/images/nikhil_daga_astrology3.jpg)
+![Navgrahas- The Nine Planets ]({{ site.url }}/public/images/nikhil_daga_astrology3.jpg)
 
 The Navagrahas or the nine planets consist of  The Sun, the Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu (north or ascending lunar node) and Ketu (south or descending lunar node).
 
