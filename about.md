@@ -23,7 +23,11 @@ Bachelor of Engineering (B.E.), Mechanical Engineering
 Skills
 ------
 **Business Management and Entrepreneurship**
-
+> **Entrepreneurial skills**
+> **Strategic Thinking**
+> **Communication skills**
+> **Interpersonal skills**
+> **Leadership skills**
 
 **Web Development And Design**   
 
@@ -37,7 +41,9 @@ Skills
 
 
 **Financial Analysis**  
-Equity and Derivatives Research, Fundamental Analysis, Technical Analysis 
+> **Equity and Derivatives Research**  
+> **Fundamental Analysis**  
+> **Technical Analysis**   
 
 
 <br><br>  
