@@ -23,11 +23,11 @@ Bachelor of Engineering (B.E.), Mechanical Engineering
 Skills
 ------
 **Business Management and Entrepreneurship**
-> **Entrepreneurial skills**
-> **Strategic Thinking**
-> **Communication skills**
-> **Interpersonal skills**
-> **Leadership skills**
+> **Entrepreneurial skills**  
+> **Strategic Thinking**  
+> **Communication skills**  
+> **Interpersonal skills**  
+> **Leadership skills**  
 
 **Web Development And Design**   
 
