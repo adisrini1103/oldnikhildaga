@@ -28,6 +28,7 @@ Skills
 > **Communication skills**  
 > **Interpersonal skills**  
 > **Leadership skills**  
+
 <br>
 
 **Web Development And Design**   
@@ -39,6 +40,7 @@ Skills
 > **Server Management**:	Apache, Nginx, Ubuntu Server, Amazon Web Services    
 > **Version control system**:	Git  
 > **Softwares**: 	Adobe(Photoshop, Illustrator, Premiere Pro, After Effects), Microsoft Excel  
+
 <br>
 
 **Financial Analysis**  
