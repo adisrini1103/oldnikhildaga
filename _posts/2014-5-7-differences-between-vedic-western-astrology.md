@@ -14,7 +14,7 @@ This difference becomes noticeable over time. After two millennia, as a result o
 
 As a result the placement of planets in the Jyotiṣa system is consistent with the actual zodiac, while in western astrology the planets fall into the following sign, as compared to their placement in the sidereal zodiac, about two thirds of the time.
 
-![Difference in Vedic and Western Astrology]({{site.url}}/images/nikhil_daga_astrology5.jpg)
+![Difference in Vedic and Western Astrology]({{site.url}}/public/images/nikhil_daga_astrology5.jpg)
 
 
 ##Difference in the zodiac sign
