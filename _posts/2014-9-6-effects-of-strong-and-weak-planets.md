@@ -6,7 +6,7 @@ category: astrology
 
 We met the nine Superpowers that influence the beings on Earth in the previous post.
 
-![Strong and Weak Planets in Astrology ]({{ site.url }}/images/nikhil_daga_astrology6.jpg)
+![Strong and Weak Planets in Astrology ]({{ site.url }}/public/images/nikhil_daga_astrology6.jpg)
 
 Now, let us study their effects.
 
