@@ -20,7 +20,7 @@ In future posts , we will one by one learn all the 4 elements in detail.
 
 Thanks.
 
-![Four Pillars Of Astrology]({{ site.url }}/images/nikhil_daga_astrology1.jpg)
+![Four Pillars Of Astrology]({{ site.url }}/public/images/nikhil_daga_astrology1.jpg)
 
 
 **If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on <nikhil.daga.bitsian@gmail.com>**
