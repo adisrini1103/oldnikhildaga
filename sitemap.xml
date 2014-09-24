@@ -42,70 +42,27 @@
   <changefreq>daily</changefreq>
   <priority>0.64</priority>
 </url>
-<url>
-  <loc>http://nikhilda.ga/astrology/2014/09/09/characteristics-of-planets-in-astrology.html</loc>
-  <lastmod>2014-09-23T14:19:47+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://nikhilda.ga/astrology/2014/09/09/characteristics-of-houses-in-astrology.html</loc>
-  <lastmod>2014-09-23T14:19:47+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://nikhilda.ga/astrology/2014/09/06/effects-of-strong-and-weak-planets.html</loc>
-  <lastmod>2014-09-23T14:19:47+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://nikhilda.ga/astrology/2014/05/07/differences-between-vedic-western-astrology.html</loc>
-  <lastmod>2014-09-23T14:19:47+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://nikhilda.ga/astrology/2014/05/06/rashi-the-zodiac-signs.html</loc>
-  <lastmod>2014-09-23T14:19:47+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://nikhilda.ga/astrology/2014/05/05/Bhavas-the-houses-of-life.html</loc>
-  <lastmod>2014-09-23T14:19:47+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://nikhilda.ga/astrology/2014/05/04/navagrahas-the-nine-planets.html</loc>
-  <lastmod>2014-09-23T14:19:47+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://nikhilda.ga/astrology/2014/05/03/planets-houses-signs.html</loc>
-  <lastmod>2014-09-23T14:19:47+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://nikhilda.ga/astrology/2014/05/02/the-four-pillars-of-astrology.html</loc>
-  <lastmod>2014-09-23T14:19:47+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://nikhilda.ga/astrology/2014/05/01/Karma-The-Science-Behind-Astrology.html</loc>
-  <lastmod>2014-09-23T14:19:47+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://nikhilda.ga/web/2014/05/18/Developing-with-meteorjs.html</loc>
-  <lastmod>2014-09-23T14:19:47+00:00</lastmod>
-  <changefreq>daily</changefreq>
-  <priority>0.64</priority>
-</url>
+ {% for post in site.posts %}
+    <url>
+      <loc>{{ site.url }}{{ post.url }}</loc>
+      {% if post.lastmod == null %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  {% endfor %}
+  {% for page in site.pages %}
+    {% if page.sitemap != null and page.sitemap != empty %}
+      <url>
+        <loc>{{ site.url }}{{ page.url }}</loc>
+        <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
+        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
+        <priority>{{ page.sitemap.priority }}</priority>
+       </url>
+    {% endif %}
+  {% endfor %}
+      
 </urlset>
