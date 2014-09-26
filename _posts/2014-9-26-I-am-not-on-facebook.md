@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Developing with meteorjs
+title: I am not on facebook. Here's why.
 category: personal
 ---
+
 
 ![Not on facebook]({{site.url}}/public/images/nikhil_daga_personal1.jpg)
 
 
-I am not on facebook. Here's why.
-----------------------------------------------
 
 
 I can write for lengths on why I am not on facebook anymore but there are others who have explained it much better. I will quote them below.
@@ -32,7 +31,7 @@ Here's how the 45 year old explains it :
 > For better or worse, FB creates a fantasy world where losers can be
 > "winners".  But winners among who???  The losers mostly!
 
-**For better or worse, FB creates a fantasy world where losers can be winners. But winners among who??? The losers mostly! **
+**For better or worse, FB creates a fantasy world where losers can be winners. But winners among who??? The losers mostly!**
 
 <br>
 <br>
@@ -56,7 +55,7 @@ Here's how the 45 year old explains it :
 > > small minds discuss people." 
 > > -Eleanor Roosevelt
 
-**“Great minds discuss ideas;  average minds discuss events; small minds discuss people.” -Eleanor Roosevelt **  
+**Great minds discuss ideas; average minds discuss events; small minds discuss people.  -Eleanor Roosevelt**  
 <br>
 <br>
 
