@@ -105,7 +105,7 @@ Phodphad! selected as the Best Student Startup in India.
 Extras
 -----
 
-Workaholic, vegetarian, non-smoker and teetotaller.
+Workaholic, nonsocial, vegetarian, non-smoker and teetotaller.
 
 Principle: Speak less, Do more
 
