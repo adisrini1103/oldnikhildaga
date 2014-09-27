@@ -1,0 +1,38 @@
+---
+layout: default
+title: "Articles"
+date: 2014-05-30T11:39:03-04:00
+modified:
+excerpt: "A collection of thoughts, inspiration, mistakes, and other minutia."
+tags: []
+image:
+  feature:
+  teaser:
+---
+<div id="main" role="main">			
+	<div class="wrap">
+		{% if page.image.feature %}
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}">
+				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+			</div><!-- /.page-image -->
+		</div><!-- /.page-feature -->
+		{% endif %}
+		<div class="page-title">
+			<h1>{{ page.title }}</h1>
+			{% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
+		</div>
+		<div class="archive-wrap">
+			<div class="page-content">
+				{{ content }}
+			</div><!-- /.page-content -->
+		</div class="archive-wrap"><!-- /.archive-wrap -->
+	</div><!-- /.wrap -->
+</div><!-- /#main -->
+
+<div class="tiles">
+{% for post in site.categories.articles %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
