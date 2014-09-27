@@ -10,7 +10,7 @@ The astrologer, who proclaims good and bad results after a deep consideration of
 ![Ten States of Planets]({{site.url}}/public/images/nikhil_daga_astrology7.jpg)
 
 
-***Planetary States:***
+##Planetary States:
 
 **Diptha (shining),**   
 *When the planet is placed in its exaltation sign is called Diptha.*
