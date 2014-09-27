@@ -10,8 +10,7 @@ category: astrology
 
 The astrologer, who proclaims good and bad results after a deep consideration of the ten Avasthas (states) of planets and the results arising from the different houses, never goes wrong.
 
-Planetary States:
----------------------
+***Planetary States:***
 
 **Diptha (shining),** 
 *When the planet is placed in its exaltation sign is called Diptha.*
