@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Ten States of Planets : Prashna Astrology
+title: The Ten States of Planets - Prashna Astrology.
 category: astrology
 ---
 
