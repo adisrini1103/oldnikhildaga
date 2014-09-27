@@ -1,13 +1,14 @@
 ---
 layout: post
-title: The Ten States of Planets - Prashna Astrology.
+title: The Ten States of Planets - Prashna Astrology
 category: astrology
 ---
 
-![Ten States of Planets]({{site.url}}/public/images/nikhil_daga_astrology7.jpg)
-
 
 The astrologer, who proclaims good and bad results after a deep consideration of the ten Avasthas (states) of planets and the results arising from the different houses, never goes wrong.
+
+![Ten States of Planets]({{site.url}}/public/images/nikhil_daga_astrology7.jpg)
+
 
 ***Planetary States:***
 
