@@ -4,7 +4,6 @@ title: The Ten States of Planets : Prashna Astrology
 category: astrology
 ---
 
-
 ![Ten States of Planets]({{site.url}}/public/images/nikhil_daga_astrology7.jpg)
 
 
