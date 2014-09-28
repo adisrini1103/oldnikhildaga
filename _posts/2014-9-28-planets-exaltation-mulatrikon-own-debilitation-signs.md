@@ -13,13 +13,13 @@ In the previous post , we studied about [the ten states of planets](http://nikhi
 
 | Planet  | Exaltation    | Mulatrikona       | Own Sign(s)         | Debilitation |
 |---------|---------------|-------------------|---------------------|--------------|
-| Sun     | 10Âº Aries     | 1-10Âº Leo         | Leo                 | 10Âº Libra    |
-| Moon    | 3Âº Taurus     | 4-30Âº Taurus      | Cancer              | 3Âº Scorpio   |
-| Mars    | 28Âº Capricorn | 0-18Âº Aries       | Aries, Scorpio      | 28Âº Cancer   |
-| Mercury | 15Âº Virgo     | 16-20Âº Virgo      | Gemini, Virgo       | 15Âº Pisces   |
-| Jupiter | 5ÂºCancer      | 0-13Âº Sagittarius | Sagittarius, Pisces | 5Âº Capricorn |
-| Venus   | 27Âº Pisces    | 0-10Âº Libra       | Taurus, Libra       | 27Âº Virgo    |
-| Saturn  | 20Âº Libra     | 0-20Âº Aquarius    | Capricorn, Aquarius | 20Âº Aries    |
+| Sun     | 10º Aries     | 1-10º Leo         | Leo                 | 10º Libra    |
+| Moon    | 3º Taurus     | 4-30º Taurus      | Cancer              | 3º Scorpio   |
+| Mars    | 28º Capricorn | 0-18º Aries       | Aries, Scorpio      | 28º Cancer   |
+| Mercury | 15º Virgo     | 16-20º Virgo      | Gemini, Virgo       | 15º Pisces   |
+| Jupiter | 5ºCancer      | 0-13º Sagittarius | Sagittarius, Pisces | 5º Capricorn |
+| Venus   | 27º Pisces    | 0-10º Libra       | Taurus, Libra       | 27º Virgo    |
+| Saturn  | 20º Libra     | 0-20º Aquarius    | Capricorn, Aquarius | 20º Aries    |
 | Rahu    | Taurus        | Cancer            | Aries               | Scorpio      |
 | Ketu    | Scorpio       | Capricorn         | Libra               | Taurus       |
 
