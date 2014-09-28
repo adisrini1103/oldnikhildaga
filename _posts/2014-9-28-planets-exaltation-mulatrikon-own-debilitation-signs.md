@@ -4,6 +4,8 @@ title: Planets and their exaltation, mulatrikon, own and debilitation signs
 category: astrology
 ---
 
+In the previous post , we studied about [the ten states of planets](http://nikhilda.ga/astrology/2014/09/26/ten-states-of-planets.html) and realized the importance of the signs in which they are placed.  Today, we will look at the chart showing the planets exaltation, mulatrikon, own and debilatation signs.
+
 ![Planets And Their Signs in Astrology ]({{ site.url }}/public/images/nikhil_daga_astrology8.png)
 
 
