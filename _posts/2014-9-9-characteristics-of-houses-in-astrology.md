@@ -4,7 +4,7 @@ title: Characteristics of Houses in Astrology
 category: astrology
 ---
 
-**The following table represents the 12 Bhavas (houses) of astrology, their sanskrit name, meaning, their Karaka(significator), the domains and the body part which they represent and their types.** 
+**The following table represents the 12 Bhavas (houses) of astrology, their sanskrit name, meaning, their Karaka(significator), the domains and the body part which they represent and their types.**
 
 
 
@@ -27,5 +27,6 @@ category: astrology
 
 
 
-
-**If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on <nikhil.daga.bitsian@gmail.com>**
+<br>
+<br>
+**If you are looking for any astrology help or would like to get a [personal astrology report](http://nikhilda.ga/astrology/), contact me on <nikhil.daga.bitsian@gmail.com>**

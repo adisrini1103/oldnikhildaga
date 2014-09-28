@@ -6,7 +6,7 @@ category: astrology
 
 The four pillars of astrology
 
-To learn Vedic Astrology, one must know the most important elements or the four pillars of astrology : 
+To learn Vedic Astrology, one must know the most important elements or the four pillars of astrology :
 
 1. Rashis / Zodiac Signs
 
@@ -23,4 +23,6 @@ Thanks.
 ![Four Pillars Of Astrology]({{ site.url }}/public/images/nikhil_daga_astrology1.jpg)
 
 
-**If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on <nikhil.daga.bitsian@gmail.com>**
+<br>
+<br>
+**If you are looking for any astrology help or would like to get a [personal astrology report](http://nikhilda.ga/astrology/), contact me on <nikhil.daga.bitsian@gmail.com>**

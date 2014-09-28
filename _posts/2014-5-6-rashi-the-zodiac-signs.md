@@ -12,4 +12,6 @@ There is a group of constellations known as the zodiacal constellations that mak
 to be continued...
 
 
-**If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on <nikhil.daga.bitsian@gmail.com>**
+<br>
+<br>
+**If you are looking for any astrology help or would like to get a [personal astrology report](http://nikhilda.ga/astrology/), contact me on <nikhil.daga.bitsian@gmail.com>**

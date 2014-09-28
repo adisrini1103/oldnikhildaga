@@ -27,4 +27,7 @@ Strong and well-placed **Venus** provides all types of material comforts while w
 Strong **Saturn** provides one with a long, secured and healthy life while weak Saturn makes one of suspicious and insecure nature.
 
 
-**If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on <nikhil.daga.bitsian@gmail.com>**
+
+<br>
+<br>
+**If you are looking for any astrology help or would like to get a [personal astrology report](http://nikhilda.ga/astrology/), contact me on <nikhil.daga.bitsian@gmail.com>**

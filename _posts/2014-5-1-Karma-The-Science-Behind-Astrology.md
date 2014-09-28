@@ -6,7 +6,7 @@ category: astrology
 
 A child is born on that day and at that hour when the celestial rays are in mathematical harmony with his individual karma. His horoscope is a challenging portrait, revealing his unalterable past and its probable future results.
 
-Our Vedic birth charts are maps of karma, showing a schedule of events that will unfold throughout our lives. 
+Our Vedic birth charts are maps of karma, showing a schedule of events that will unfold throughout our lives.
 
 The sages created Vedic astrology to help human beings understand the cycles of their lives based on karma they'd created in previous incarnations. The horoscope was designed as a kind of report card for the soul that summarized their level of accomplishment up to the moment they were born. It revealed the karmic status of different areas in their life such as family, romance, career, finances, and spiritual growth. It also showed when particular karmas from the past were most likely to manifest in the course of their life.
 
@@ -45,4 +45,6 @@ If someone who is running a cycle that is signaling physical danger happens to l
 
 Just as individuals generate karma, so do neighborhoods, organizations, and nations. Group karma can override or strongly modify individual karma, particularly during collective experiences like war. This shows that we are responsible not only for our own actions but for the attitudes and acts of the communities of which we are members.
 
-**If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on <nikhil.daga.bitsian@gmail.com>**
+<br>
+<br>
+**If you are looking for any astrology help or would like to get a [personal astrology report](http://nikhilda.ga/astrology/), contact me on <nikhil.daga.bitsian@gmail.com>**

@@ -39,4 +39,6 @@ The word planet for “Graha” is actually a misnomer. Anyways, for easy unders
 
 All said and done, ultimately, the fate of company also depends on the product that its developing . Similarly, the fate of a person also depends on the karma he / she performs.
 
-**If you are looking for any astrology help or would like to get your personal astrology report card at just $10, contact me on <nikhil.daga.bitsian@gmail.com>**
+<br>
+<br>
+**If you are looking for any astrology help or would like to get a [personal astrology report](http://nikhilda.ga/astrology/), contact me on <nikhil.daga.bitsian@gmail.com>**
