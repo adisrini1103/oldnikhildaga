@@ -1,6 +1,6 @@
 body          { margin: 1px; padding: 0px; }
-#canvas_info  { border: 0px solid #9C9898; outline: none; }
-#canvas_chart { border: 0px solid #9C9898; outline: none; }
+#canvas_info  { border: 0px solid #dd4124; outline: none; }
+#canvas_chart { border: 0px solid #dd4124; outline: none; }
 
 
 body {
@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 a:link, a:visited {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    color: #dd4124;
+    color: #c17086;
     text-decoration: none;
     border-bottom: 1px solid #91476c;
     font-size: .85em;
@@ -199,7 +199,7 @@ article p:first-of-type {
     border-top: 1px dotted #968765;
     border-bottom: 1px dotted #968765;
     padding: 10px 0px;
-    color: #dd4124;
+    color: #c17086;
 }
 
 button {
