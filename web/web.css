@@ -15,6 +15,7 @@ padding-right: 30px;
 .bsg-container {
 max-width: 1100px;
 margin: auto;
+overflow: hidden;
 }
 
 .col-md-6 {
